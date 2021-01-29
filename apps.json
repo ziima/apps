@@ -222,7 +222,7 @@
     "bitwarden": {
         "branch": "master",
         "category": "synchronization",
-        "level": 7,
+        "level": 6,
         "maintained": true,
         "revision": "HEAD",
         "state": "working",
@@ -428,7 +428,7 @@
     "concrete5": {
         "branch": "master",
         "category": "publishing",
-        "level": 7,
+        "level": 6,
         "maintained": false,
         "revision": "HEAD",
         "state": "working",
@@ -777,7 +777,7 @@
     "etherpad_mypads": {
         "branch": "master",
         "category": "office",
-        "level": 6,
+        "level": 8,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -829,7 +829,7 @@
     "flarum": {
         "branch": "master",
         "category": "communication",
-        "level": 7,
+        "level": 4,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -1422,7 +1422,7 @@
     "jenkins": {
         "branch": "master",
         "category": "dev",
-        "level": 0,
+        "level": 7,
         "maintained": false,
         "revision": "HEAD",
         "state": "working",
@@ -1561,7 +1561,7 @@
         "branch": "master",
         "category": "reading",
         "high_quality": true,
-        "level": 4,
+        "level": 7,
         "maintained": false,
         "revision": "HEAD",
         "state": "working",
@@ -1626,7 +1626,7 @@
     "lionwiki-t2t": {
         "branch": "master",
         "category": "publishing",
-        "level": 7,
+        "level": 4,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -1750,6 +1750,7 @@
     "matterbridge": {
         "branch": "master",
         "category": "communication",
+        "level": 0,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -1904,7 +1905,7 @@
     "mobilizon": {
         "branch": "master",
         "category": "social_media",
-        "level": 8,
+        "level": 0,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -2071,7 +2072,7 @@
     "mytinytodo": {
         "branch": "master",
         "category": "productivity_and_management",
-        "level": 0,
+        "level": 7,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -2181,7 +2182,7 @@
     "onlyoffice": {
         "branch": "master",
         "category": "office",
-        "level": 6,
+        "level": 8,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -2233,6 +2234,7 @@
     "opentracker": {
         "branch": "master",
         "category": "wat",
+        "level": 7,
         "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/opentracker_ynh"
@@ -2306,7 +2308,7 @@
     "peertube": {
         "branch": "master",
         "category": "social_media",
-        "level": 6,
+        "level": 8,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -2415,6 +2417,7 @@
     "phpservermon": {
         "branch": "master",
         "category": "system_tools",
+        "level": 7,
         "maintained": true,
         "revision": "HEAD",
         "state": "working",
@@ -2491,7 +2494,7 @@
     "pleroma": {
         "branch": "master",
         "category": "social_media",
-        "level": 8,
+        "level": 6,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -2992,7 +2995,7 @@
     "sogo": {
         "branch": "master",
         "category": "communication",
-        "level": 8,
+        "level": 4,
         "maintained": true,
         "revision": "HEAD",
         "state": "working",
